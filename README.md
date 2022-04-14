@@ -1,9 +1,9 @@
 # Hi! I'm Rodrigo Nogueira! Welcome to my Github profile.
 
-<div>
+<div align="center">
   <a href="https://github.com/JRodrigoNogueira">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
+  <img height="180" width="42%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
+  <img height="180" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
 </div>
 
 ## About me

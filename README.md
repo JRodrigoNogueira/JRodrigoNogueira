@@ -6,16 +6,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### About me
+## About me
 
 - 🎓 Student of Federal Institute of Education, Science and Technology of São Paulo
 - 🌱 I’m currently learning Javascript, HTML, CSS and MySQL
 
 
-### My Skills and Experiences
+## My Skills and Experiences
   
   <div>
-    
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg"/>
@@ -25,10 +24,9 @@
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg"/>
     <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-  
   </div>
   
-  ### Contact-me at
+  ## Contact-me at
   
   <div>
     <a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-rodrigo-lima-nogueira-3194a9235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

@@ -1,4 +1,4 @@
-#Hi! I'm Rodrigo Nogueira! Welcome to my Github profile.
+# Hi! I'm Rodrigo Nogueira! Welcome to my Github profile.
 
 <div>
   <a href="https://github.com/JRodrigoNogueira">
@@ -6,13 +6,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-###About me
+### About me
 
 - 🎓 Student of Federal Institute of Education, Science and Technology of São Paulo
 - 🌱 I’m currently learning Javascript, HTML, CSS and MySQL
 
 
-###My Skills and Experiences
+### My Skills and Experiences
   
   <div>
     

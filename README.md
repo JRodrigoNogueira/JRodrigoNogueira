@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/JRodrigoNogueira">
-    <div align="center">
-    <img height="300px" width="300px" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
-    <img height="500px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
+    <div align="center" height="800px" width="800px">
+    <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
+    <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
     </div>
 </div>
 

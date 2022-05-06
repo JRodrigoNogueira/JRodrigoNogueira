@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/JRodrigoNogueira">
-  <img height="50%" width="49%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
-  <img height="50%" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
+  <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
+  <img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
 </div>
 
 ## About me

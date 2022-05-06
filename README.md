@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://github.com/JRodrigoNogueira">
     <div align="center" height="800px" width="800px">
-    <img height="60%" width="70%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
-    <img height="39%" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
+    <img height="60%" width="65%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
+    <img height="39%" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
     </div>
 </div>
 

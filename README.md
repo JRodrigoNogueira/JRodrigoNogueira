@@ -27,8 +27,6 @@
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-plain.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg"/>
-  <img width="50" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"/>
   <img width="50" height="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png"/>
   </div>
   

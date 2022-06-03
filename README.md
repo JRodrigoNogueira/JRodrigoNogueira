@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://github.com/JRodrigoNogueira">
     <div align="center" height="800px" width="800px">
-    <img width="67%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=dark"/>
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=dark"/>
+    <img width="67%" src="https://github-readme-stats.vercel.app/api?username=JRodrigoNogueira&show_icons=true&theme=gotham"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodrigoNogueira&theme=gotham"/>
     </div>
 </div>
 
@@ -12,6 +12,7 @@
 
 - 🎓 Student of Federal Institute of Education, Science and Technology of São Paulo
 - 🌱 I’m currently learning Javascript, HTML, CSS and MySQL
+- 
 
 
 ## My Skills and Experiences

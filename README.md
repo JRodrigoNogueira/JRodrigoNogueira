@@ -10,11 +10,10 @@
 
 ## About me
 
-- 🎓 Student of Federal Institute of Education, Science and Technology of São Paulo
-- 🌱 I’m currently learning Javascript, HTML, CSS and MySQL
+- 🎓 Graduated from Federal Institute of Education, Science and Technology of São Paulo
+- 💻 I’m currently working with Angular, Java Spring, HTML, CSS and MySQL
 - 🌎 My goal is help people through technology
 - 🎲 I love games, series, movies and RPG
-- 💻 Working to become a fullstack developer
 
 
 ## My Skills and Experiences

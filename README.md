@@ -10,20 +10,24 @@
 
 ## About me
 
-- 🎓 Graduated from the Federal Institute of Education, Science and Technology of São Paulo
-- 💻 I’m currently working with Angular, Java Spring Boot, HTML5, SCSS and SQL
+- 🎓 Student of Federal Institute of Education, Science and Technology of São Paulo
+- 🌱 I’m currently learning Javascript, HTML, CSS and MySQL
 - 🌎 My goal is help people through technology
 - 🎲 I love games, series, movies and RPG
+- 💻 Working to become a fullstack developer
 
 
 ## My Skills and Experiences
   
   <div>
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-plain.svg"/>
   <img width="50" height="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png"/>
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"/>
   </div>
   
   ## Contact-me at
